@@ -1,0 +1,13 @@
+{
+    "name": "panguktd/doctrine",
+    "description": "The Doctrine Orm.",
+    "keywords": ["orm", "doctrine"],
+    "license": "MIT",
+    "type": "project",
+    "require": {
+        "php": ">=5.2.*"
+    },
+    "config": {
+        "preferred-install": "dist"
+    }
+}
